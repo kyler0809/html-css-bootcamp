@@ -1,0 +1,26 @@
+div {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("dog.jpg");
+    background-size: cover;
+    background-repeat no-repeat;
+}
+/*alt+j selects all 10px*/
+img{
+    border: 30px groove orangered;
+    border-radius: 100%;
+.onedog{
+    border: 30px dashed orangered;
+    border-radius: 100%;
+}
+.twodog{
+    border: 30px dotted orangered;
+    border-radius: 100%;
+}
+.threedog{
+    border: 30px double orangered;
+    border-radius: 100%;
+}
+

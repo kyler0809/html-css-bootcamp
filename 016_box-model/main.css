@@ -1,0 +1,27 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 100%;
+    display: inline-block;
+}
+/*alt+j selects all 10px*/
+img {
+    width: 200px;
+    box-sizing: border-box;
+    border: 10px groove orangered;
+    padding: 20px;
+}
+.onedog{
+    border: 10px dashed orangered;
+    border-radius: 100%;
+}
+.twodog{
+    border: 10px dotted orangered;
+    border-radius: 100%;
+}
+.threedog{
+    border: 10px double orangered;
+    border-radius: 100%;
+}
+
